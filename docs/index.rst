@@ -3,11 +3,10 @@ Everything You Need to Know About AT&T Login, Sign In, Customer Service, Activat
 
 AT&T is one of the largest telecommunications companies in the world, offering a wide range of services including wireless phone plans, internet, TV, and more. Whether you are a new user trying to activate your service, an existing customer facing login issues, or someone needing assistance from AT&T customer care, this guide covers everything you need to know about AT&T login, sign in, activation codes, customer service, and license keys.
 
-.. image::https://i.gifer.com/origin/b9/b91374288d3c5d7686114aebf6db85d9_w200.gif
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
+.. image:: https://i.gifer.com/origin/b9/b91374288d3c5d7686114aebf6db85d9_w200.webp
+   :alt: Description of the animation
    :target: https://aclogportal.com/kaspersky-login
+
 
 AT&T Login and AT&T Sign In: The Gateway to Your Account
 --------------------------------------------------------
